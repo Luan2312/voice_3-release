@@ -1,8 +1,8 @@
 {
-    "version": "1.0.1",
-    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.1/VideoTranslatorPro.exe",
-    "sha256": "558de37251e984b8e7c5f2958768e1862cd2a4218e955035d5bcf0355b935e7c",
+    "version": "1.0.3",
+    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.3/VideoTranslatorPro.exe",
+    "sha256": "775bf226407ef6399dfbb74617c7e460e1c1f01cbfbc885a3e3d44807175f539",
     "size_mb": 1108,
-    "changelog": "Phien ban dau tien.",
+    "changelog": "- Update",
     "min_version": "1.0.0"
 }
