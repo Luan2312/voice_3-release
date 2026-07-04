@@ -1,8 +1,8 @@
 {
-    "version": "1.0.17",
-    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.17/VideoTranslatorPro.exe",
-    "sha256": "3b19a81c415b19445d1a190a50f5665bcd368f2845b074b435d9a96c91677325",
+    "version": "1.0.18",
+    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.18/VideoTranslatorPro.exe",
+    "sha256": "46c6827cea0d205e3a1069c8314167840b40a668b411af69930df0a8bb171ac6",
     "size_mb": 1109,
-    "changelog": "- Update Thumbnail - Update CSV",
+    "changelog": "- Fix TTS v2",
     "min_version": "1.0.0"
 }
