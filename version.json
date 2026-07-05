@@ -1,8 +1,8 @@
 {
-    "version": "1.0.22",
-    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.22/VideoTranslatorPro.exe",
-    "sha256": "b758725b20047e51b48b8d8bb7a73239656e4ce5e6ac1186578415123c7e3831",
+    "version": "1.0.23",
+    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.23/VideoTranslatorPro.exe",
+    "sha256": "cf3e4039aeb7a603f8f7be710af4fe44088ff38e983565044ae621ccecae1f09",
     "size_mb": 1109,
-    "changelog": "Update FFM",
+    "changelog": "Update AI\\n Update voice",
     "min_version": "1.0.0"
 }
