@@ -1,8 +1,8 @@
 {
-    "version": "1.0.23",
-    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.23/VideoTranslatorPro.exe",
-    "sha256": "cf3e4039aeb7a603f8f7be710af4fe44088ff38e983565044ae621ccecae1f09",
+    "version": "1.0.24",
+    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.24/VideoTranslatorPro.exe",
+    "sha256": "47d7c02b0007afd1fc419e28e3103f81572a8c6e7790618e923fa115e3fbc4ca",
     "size_mb": 1109,
-    "changelog": "Update AI\\n Update voice",
+    "changelog": "Fix Genareta Voice",
     "min_version": "1.0.0"
 }
