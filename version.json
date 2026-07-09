@@ -1,8 +1,8 @@
 {
-    "version": "1.0.25",
-    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.25/VideoTranslatorPro.exe",
-    "sha256": "a45380c07471c642e2fe86340a22e69248fe7fd41d274b6c3992573e71800e2c",
+    "version": "1.0.26",
+    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.26/VideoTranslatorPro.exe",
+    "sha256": "65d5ab89b0bbd915b09f6ade1d1f097c8d031a2e37c720c89d3f997e098cde2d",
     "size_mb": 1109,
-    "changelog": "FIX HWID",
+    "changelog": "Update ICA",
     "min_version": "1.0.0"
 }
