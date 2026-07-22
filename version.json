@@ -1,8 +1,8 @@
 {
-    "version": "1.0.33",
-    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.33/VideoTranslatorPro.exe",
-    "sha256": "84acceaffaad1cdf2befeecaeee60c0ce1dcb5a3e645ef4069700d16012677df",
-    "size_mb": 1102,
-    "changelog": "Bundle pywhispercpp with whisper.cpp for local STT",
+    "version": "1.0.35",
+    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.35/VideoTranslatorPro.exe",
+    "sha256": "ba0f3a7ffa03a9eb9545c8a813cdfda465f2339e170cd684d2cd32cdba95538d",
+    "size_mb": 1103,
+    "changelog": "Fix tqdm crash: redirect stderr/stdout to devnull",
     "min_version": "1.0.0"
 }
