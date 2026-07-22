@@ -1,8 +1,8 @@
 {
-    "version": "1.0.30",
-    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.30/VideoTranslatorPro.exe",
-    "sha256": "3e6891f8a88d7c5aa60da29af4aa0285e22bff65c81a22ca65ead0e1e78aa8e1",
+    "version": "1.0.33",
+    "url": "https://github.com/Luan2312/voice_3-release/releases/download/v1.0.33/VideoTranslatorPro.exe",
+    "sha256": "84acceaffaad1cdf2befeecaeee60c0ce1dcb5a3e645ef4069700d16012677df",
     "size_mb": 1102,
-    "changelog": "fix ensure",
+    "changelog": "Bundle pywhispercpp with whisper.cpp for local STT",
     "min_version": "1.0.0"
 }
